@@ -1,7 +1,4 @@
 //Receiver
-//Demo - https://youtu.be/g2GTyx-DxdI
-//visit www.rootsaid.com for full tutorial
-//For Video Demo and tutorials Visit www.youtube.com/c/rootsaid
 
 #include <SoftwareSerial.h>
 #include <Wire.h>
